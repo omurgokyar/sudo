@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sudo Core
+Comment=Sudo P2P Cryptocurrency
+Exec=sudo-qt %u
+Terminal=false
+Type=Application
+Icon=sudo128
+MimeType=x-scheme-handler/sudo;
+Categories=Office;Finance;
+Name[en_US]=sudo-qt.desktop

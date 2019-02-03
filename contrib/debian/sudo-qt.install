@@ -1,0 +1,6 @@
+usr/local/bin/sudo-qt usr/bin
+share/pixmaps/sudo32.png usr/share/pixmaps
+share/pixmaps/sudo16.png usr/share/pixmaps
+share/pixmaps/sudo128.png usr/share/pixmaps
+debian/sudo-qt.desktop usr/share/applications
+debian/sudo-qt.protocol usr/share/kde4/services/
